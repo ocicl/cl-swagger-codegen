@@ -5,5 +5,5 @@ lisp code generator for swagger
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/incjung/cl-swagger-codegen.git |
 | commit  | 23bd1d2                                               |
-| systems | (cl-swagger)                                          |
+| systems | cl-swagger                                            |
 |---------+-------------------------------------------------------|
